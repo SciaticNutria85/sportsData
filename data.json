@@ -1,0 +1,10 @@
+{
+    "sportGeneralData": {
+        "name": "Esport",
+        "wish": "Y",
+        "sport": "SOC",
+        "team": "AME",
+        "interest": ["PROM"]
+    },
+    "error": ""
+}
